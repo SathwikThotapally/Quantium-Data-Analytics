@@ -28,7 +28,8 @@ The program simulates real-world tasks of a **Data Analyst**, focusing on custom
 ## 📂 Repository Structure
 - `Quantium-Task-1.ipynb` → Customer analytics & data exploration  
 - `Quantium-Task-2.ipynb` → Experimentation & statistical testing  
-- `Quantium-Task-3.pdf` → Business insights & recommendations  
+- `Quantium-Task-3.pdf` → Business insights & recommendations
+- `Quantium-Certificate.pdf` → Certificate of completion  
 
 ---
 
